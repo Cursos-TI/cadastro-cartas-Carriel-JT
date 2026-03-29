@@ -4,6 +4,22 @@
 // Tema 1 - Cadastro das cartas
 // Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
 
+/*EXEMPLO DADOS CARTAS PARA TESTE:
+Estado	PR	
+Cidade	Curitiba	
+População	1.830.795	hab
+Área	435,277	km²
+PIB	79,4	BI
+Pontos Turisticos	47	
+		
+Estado	SC	
+Cidade	Florianopolis	
+População	587.486	hab
+Área	674,844	km²
+PIB	31,2	BI
+Pontos Turisticos	38	
+*/
+
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
     int     ncarta, populacao, p_turisticos;
